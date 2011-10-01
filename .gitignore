@@ -1,0 +1,57 @@
+# OS
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# compiled 
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.pyc
+
+# package
+*.apk
+*.iso
+*.ipa
+*.jar
+*.war
+
+# xcode
+*.swp
+*~.nib
+build/
+*.pbxuser
+*.perspective
+*.perspectivev3
+xcuserdata
+
+# eclipse
+.classpath
+.project
+.settings
+
+#android
+bin
+gen
+*.apk
+*.ap_
+*.dex
+
+# logs
+*.log
+
+# RoR
+.bundle
+db/*.sqlite3
+log/*.log
+tmp/
+
+# .Net & Visual Studio
+_ReSharper.MUDIDemo/
+*.resharper
+*.resharper.user
+*.csproj.user
