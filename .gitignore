@@ -51,7 +51,7 @@ log/*.log
 tmp/
 
 # .Net & Visual Studio
-_ReSharper.MUDIDemo/
+_ReSharper.*
 *.resharper
 *.resharper.user
 *.csproj.user
